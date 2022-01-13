@@ -6,4 +6,4 @@
 4. Push your work as a private repo and share it with developer@codebuddy.co
 5. Please share your screen on meet with your interviewer during this entire process.
 
-### Time allocated: 3 hrs (if need extra time please reach out to the HR who is taking your interview)
+### Time allocated: 1hr 30min (if need extra time please reach out to the HR who is taking your interview)
